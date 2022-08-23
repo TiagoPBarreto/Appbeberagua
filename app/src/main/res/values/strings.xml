@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App beber agua</string>
+    <string name="hint_peso">Seu peso (Kg)</string>
+    <string name="hint_idade">Sua Idade</string>
+    <string name="text_button_calcular">Calcular Ingestão Diaria</string>
+    <string name="text_button_lembrete">Lembrete</string>
+    <string name="text_button_alarme">Alarme</string>
+    <string name="text_hora">00</string>
+    <string name="text_dois_pontos">:</string>
+    <string name="text_minutos">00</string>
+    <string name="toast_informe_peso">Informe Seu Peso</string>
+    <string name="toast_informe_idade">Informe Sua Idade</string>
+    <string name="dialog_titulos">Redefinir Dados</string>
+    <string name="dialog_desc">Deseja Excluir Todos os Dados Existentes?</string>
+    <string name="alarme_mensagem">Hora de Beber Água</string>
+
+</resources>
